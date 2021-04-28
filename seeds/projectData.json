@@ -1,18 +1,22 @@
 [
-    {
-      "name": "Music Near Me",
-      "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-      "needed_funding": 5000
-    },
-    {
-      "name": "The Ultimate Tech Quiz",
-      "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-      "needed_funding": 10000
-    },
-    {
-      "name": "Roll 'Em Up",
-      "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-      "needed_funding": 800
-    }
-  ]
-  
+  {
+    "name": "This is a random post title",
+    "content": "I'm a huge wall of post content! I'm a huge wall of post content! I'm a huge wall of post content! I'm a huge wall of post content! I'm a huge wall of post content! I'm a huge wall of post content! I'm a huge wall of post content! ",
+    "user_id": 1
+  },
+  {
+    "name": "Porky the Pig",
+    "content": "Stuff about Looney Tunes and Porky the Pig! BlahBLAH BLERRRRG BLAH!",
+    "user_id": 2
+  },
+  {
+    "name": "Why Coding is Super Sweet!",
+    "content": "Proident cillum sunt ea dolor occaecat qui excepteur mollit nulla. Deserunt velit nostrud aliqua laboris fugiat occaecat Lorem elit officia veniam. Consequat Lorem fugiat eu in adipisicing sint deserunt veniam irure sit do consectetur sunt.",
+    "user_id": 3
+  },
+  {
+    "name": "Mortal Kombat Seventeen Review",
+    "content": "Aliquip officia reprehenderit mollit elit ea esse enim do deserunt labore incididunt officia veniam qui. Amet et ipsum sunt consequat enim aute tempor. Esse consequat occaecat commodo elit fugiat ipsum voluptate enim occaecat non laboris irure. Enim est fugiat tempor cupidatat incididunt anim excepteur exercitation aute ullamco. Excepteur consequat exercitation aliquip consequat eiusmod mollit adipisicing amet. Sint esse elit aliquip et sit aute pariatur.",
+    "user_id": 1
+  }
+]

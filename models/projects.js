@@ -11,8 +11,13 @@ Project.init(
       primaryKey: true,
       autoIncrement: true,
     },
-    description: {
+    name: {
       type: DataTypes.STRING,
+      allowNull: false,
+    },
+    data: {
+      type: DataTypes.TEXT,
+      allowNull: false,
     },
     date_created: {
       type: DataTypes.DATE,
@@ -32,7 +37,7 @@ Project.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: "project",
+    modelName: "projects",
   }
 );
 
