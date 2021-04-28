@@ -1,0 +1,27 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <h2>This is your dashboard {{user.name}}!</h2>
+        </div>
+    </div>
+
+    {{> post_form}}
+
+    {{#if user.posts.length}}
+    <div class="row">
+        <div class="col-12">
+            <h4>Your Forums</h4>
+        </div>
+    </div>
+    {{#each user.posts as |post|}}
+    {{> original_post button=true dashboard=true}}
+    {{/each}}
+    {{else}}
+    <div class="row">
+        <div class="col-12">
+            <h4>Your forums here!</h4>
+        </div>
+    </div>
+    {{/if}}
+</div>
+<script src="/js/post.js"></script>

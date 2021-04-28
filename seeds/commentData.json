@@ -1,0 +1,30 @@
+[
+    {
+        "response": "Yessir",
+        "user_id": 7,
+        "post_id": 12    
+    },
+    {
+        "response": "I like turtles",
+        "user_id": 3,
+        "post_id": 22    
+    },
+    {
+        "response": "Wonderful idea!",
+        "user_id": 33,
+        "post_id": 85   
+    },
+    {
+        "response": "How about we try this",
+        "user_id": 45,
+        "post_id": 78    
+    },
+    {
+        "response": "Not today sir",
+        "user_id": 89,
+        "post_id": 56    
+    },
+]
+
+
+]
